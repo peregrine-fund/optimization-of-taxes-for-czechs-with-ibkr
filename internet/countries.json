@@ -1,0 +1,117 @@
+{
+    "TSM": {
+        "ibkr_country": "TW",
+        "isin_prefix": "US",
+        "yf_country": "TW"
+    },
+    "OXY": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "MA": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "DK": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "GOOG": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "GOOGL": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "UNH": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "GNTX": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "SIRI": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "KRO": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "HUN": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "NSOP": {
+        "ibkr_country": "MY",
+        "isin_prefix": "MY",
+        "yf_country": "MY"
+    },
+    "LYB": {
+        "ibkr_country": "US",
+        "isin_prefix": "NL",
+        "yf_country": "UK"
+    },
+    "PSA": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "KO": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "COST": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "MCD": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "BLK": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "NDAQ": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "PEP": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "VLO": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "EMN": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    },
+    "NVDA": {
+        "ibkr_country": "US",
+        "isin_prefix": "US",
+        "yf_country": "US"
+    }
+}
