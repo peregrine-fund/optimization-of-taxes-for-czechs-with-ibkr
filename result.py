@@ -12,7 +12,6 @@ from cnb_converter import CNBConverter
 warnings.filterwarnings("ignore", category=FutureWarning)
 warnings.filterwarnings("ignore", message=".*Timestamp.utcnow is deprecated.*")
 import json
-# ... your other imports ...
 
 target_year = "2025"
 preferred_method = "LIFO"
